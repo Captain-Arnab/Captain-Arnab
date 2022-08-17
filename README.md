@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **caparnab@gmail.com**
 
-- ⚡ Fun fact **In my free time I usually spend my time in gaming or learning new stuff**
+- ⚡ Fun fact **in my free time I usually do gaming or learning new stuff**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
