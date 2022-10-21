@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **php & MYSQL**
 
-- 📫 How to reach me **caparnab@gmail.com**
+- 📫 How to reach me **caparnab07@gmail.com**
 
 - ⚡ Fun fact **in my free time I usually do gaming or learning new stuff**
 
