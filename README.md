@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/som_arnab" target="blank"><img src="https://img.shields.io/twitter/follow/som_arnab?logo=twitter&style=for-the-badge" alt="som_arnab" /></a> </p>
 
-- 🔭 I’m currently working on **Weather Forecasting web application by calling API**
+- 🔭 I’m currently working on **Payment gateway integration**
 
-- 🌱 I’m currently learning **AJAX, jQuery and BootStrap**
+- 🌱 I’m currently learning **FLUTTER**
 
 - 👯 I’m looking to collaborate on [Discord](https://discord.gg/kkVzUppbW2)
 
