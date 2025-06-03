@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Laravel + Vue project<br><br>🌱 I’m currently learning FLUTTER<br><br>👯 I’m looking to collaborate on Discord<br><br>👨‍💻 All of my projects are available at https://github.com/Captain-Arnab<br><br>💬 Ask me about Full Stack Web Dev<br><br>📫 How to reach me caparnab07@gmail.com<br><br>⚡ Fun fact in my free time I usually do gaming or learning new stuff
+🔭 I’m currently working on a Laravel + Vue project<br><br>🌱 I’m currently learning FLUTTER<br><br>👯 I’m looking to collaborate on Discord<br><br>👨‍💻 All of my projects are available at https://github.com/Captain-Arnab<br><br>💬 Ask me about Full Stack Web Dev<br><br>📫 How to reach me caparnab07@gmail.com<br><br>⚡ Fun fact in my free time I usually do gaming or watch movies
 
 
 ## 🌐 Socials:
