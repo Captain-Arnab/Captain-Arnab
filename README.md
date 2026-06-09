@@ -168,12 +168,20 @@ strengths:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Captain-Arnab&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Captain-Arnab&theme=tokyonight&hide_border=true" />
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=Captain-Arnab&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&border_radius=10&rank_icon=github" alt="GitHub Stats" />
+    </td>
+    <td valign="top">
+      <img src="https://streak-stats.demolab.com/?user=Captain-Arnab&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
+<br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Captain-Arnab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Captain-Arnab&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10" alt="Top Languages" />
 
 </div>
 
@@ -183,7 +191,7 @@ strengths:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Captain-Arnab&theme=tokyonight&no-frame=true&margin-w=8&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Captain-Arnab&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" alt="GitHub Trophies" />
 
 </div>
 
@@ -193,7 +201,7 @@ strengths:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Captain-Arnab&bg_color=1a1b27&color=70a5fd&line=7c3aed&point=c4b5fd&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Captain-Arnab&bg_color=1a1b27&color=70a5fd&line=7c3aed&point=c4b5fd&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 
 </div>
 
@@ -203,7 +211,7 @@ strengths:
 
 <div align="center">
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 
 </div>
 
