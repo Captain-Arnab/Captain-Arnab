@@ -33,7 +33,7 @@ location    : Howrah, West Bengal, India
 role        : Senior Full Stack Developer
 experience  : 3.5+ Years | 20+ Live Deployments
 current     : Outposter South Asia (Remote, AU)
-education   : B.Tech CSE — DGPA 8.68 / 10
+education   : B.Tech CSE
 availability: Immediate | Open to Remote & Relocation
 languages   : English · Bengali · Hindi
 
