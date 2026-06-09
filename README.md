@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&height=60&lines=Hi+there%2C+I'm+Arnab+Som+%F0%9F%91%8B;Senior+Full+Stack+Developer;Laravel+%7C+Vue.js+%7C+Flutter+%7C+Node.js;3.5%2B+Years+%7C+20%2B+Live+Deployments;Building+for+AU+%26+IN+Clients+%F0%9F%8C%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&height=70&lines=Hi+there%2C+I'm+Arnab+Som+%F0%9F%91%8B;Senior+Full+Stack+Developer;Laravel+%7C+Vue.js+%7C+Flutter+%7C+Node.js;3.5%2B+Years+%7C+20%2B+Live+Deployments;Open+to+Remote+Opportunities+%F0%9F%8C%8F" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -23,7 +23,6 @@
 
 ## 👨‍💻 About Me
 
-<!-- TABLE layout is the only reliable way to get code block + image side by side on GitHub -->
 <table>
 <tr>
 <td valign="top" width="60%">
@@ -51,9 +50,9 @@ strengths:
 ```
 
 </td>
-<td valign="top" width="40%" align="center">
+<td valign="middle" width="40%" align="center">
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding GIF" width="320" />
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding GIF" width="300" />
 
 </td>
 </tr>
@@ -159,57 +158,40 @@ strengths:
 
 | # | Project | Stack | Description | Live |
 |---|---------|-------|-------------|------|
-| 🤖 | **Outposter Talent Platform** | Vue.js · Laravel · OpenAI · OCR | AI-powered 3-portal talent system — client, job & admin portals | [↗ talent.outposter.com.au](https://talent.outposter.com.au) |
-| 🛒 | **Urban Roots** | Flutter · Laravel | Grocery store with user & delivery driver mobile apps | [↗ urbunroots.com](https://urbunroots.com) |
-| 💰 | **AntVault** | Laravel · Vue.js | Stock & SIP investment fintech platform | [↗ antvault.in](https://antvault.in) |
-| 🧹 | **Zencare** | Flutter · Laravel | Service marketplace + Android app | [↗ zencareservice.com](https://zencareservice.com) |
-| 💆 | **Elegance Laser Clinics** | Laravel | Clinic website + custom blog admin | [↗ elegancelaserclinics.com](https://elegancelaserclinics.com) |
-| 👕 | **Rupa Corporate** | Magento | E-commerce for India's top textile brand | [↗ rupa.co.in](https://rupa.co.in) |
-| 📈 | **Omnifincon** | Laravel · Vue.js | Wealth management platform | [↗ omnifincon.com](https://omnifincon.com) |
-| 🏨 | **Gold Horn Hotel** | Laravel | Hotel booking & events platform | [↗ goldhornhotel.com](https://goldhornhotel.com) |
+| 🤖 | **Outposter Talent Platform** | Vue.js · Laravel · OpenAI · OCR | AI-powered 3-portal talent system — client, job & admin portals | [↗ Visit](https://talent.outposter.com.au) |
+| 🛒 | **Urban Roots** | Flutter · Laravel | Grocery store with user & delivery driver mobile apps | [↗ Visit](https://urbunroots.com) |
+| 💰 | **AntVault** | Laravel · Vue.js | Stock & SIP investment fintech platform | [↗ Visit](https://antvault.in) |
+| 🧹 | **Zencare** | Flutter · Laravel | Service marketplace + Android app | [↗ Visit](https://zencareservice.com) |
+| 💆 | **Elegance Laser Clinics** | Laravel | Clinic website + custom blog admin | [↗ Visit](https://elegancelaserclinics.com) |
+| 👕 | **Rupa Corporate** | Magento | E-commerce for India's top textile brand | [↗ Visit](https://rupa.co.in) |
+| 📈 | **Omnifincon** | Laravel · Vue.js | Wealth management platform | [↗ Visit](https://omnifincon.com) |
+| 🏨 | **Gold Horn Hotel** | Laravel | Hotel booking & events platform | [↗ Visit](https://goldhornhotel.com) |
 | 🎓 | **MiCampus** | Flutter · Laravel | College event management + Android app | — |
-| ⚡ | **Ontrack Energy** | Laravel | Corporate website | [↗ ontrackenergy.com](https://ontrackenergy.com) |
+| ⚡ | **Ontrack Energy** | Laravel | Corporate website | [↗ Visit](https://ontrackenergy.com) |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub at a Glance
 
 <div align="center">
 
-<table>
-  <tr>
-    <td valign="top">
-      <img src="https://readme-stats.vercel.app/api?username=Captain-Arnab&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&border_radius=10&rank_icon=github" alt="GitHub Stats" />
-    </td>
-    <td valign="top">
-      <img src="https://streak-stats.demolab.com/?user=Captain-Arnab&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<!-- Streak stats — hosted on demolab, not vercel, very reliable -->
+<img src="https://streak-stats.demolab.com/?user=Captain-Arnab&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
-<br/>
+<br/><br/>
 
-<img src="https://readme-stats.vercel.app/api/top-langs/?username=Captain-Arnab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10" alt="Top Languages" />
+<!-- Activity graph — ssr hosted, reliable -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Captain-Arnab&bg_color=1a1b27&color=70a5fd&line=7c3aed&point=c4b5fd&area=true&hide_border=true" alt="Contribution Activity Graph" width="100%" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎯 Experience Highlights
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Captain-Arnab&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Captain-Arnab&bg_color=1a1b27&color=70a5fd&line=7c3aed&point=c4b5fd&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+<img src="./stats-card.svg" alt="Experience Highlights" width="100%" />
 
 </div>
 
