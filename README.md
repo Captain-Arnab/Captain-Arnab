@@ -1,85 +1,90 @@
 <div align="center">
 
-<!-- Animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Arnab%20Som&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20%26%20Mobile%20App%20Developer&descAlignY=58&descSize=20" width="100%"/>
-
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+3.5%2B+Years;Laravel+%7C+Vue.js+%7C+Flutter+%7C+Node.js;20%2B+Live+Deployments+%F0%9F%9A%80;Building+for+AU+%26+IN+Clients+%F0%9F%8C%8F;Open+to+Remote+Opportunities" alt="Typing SVG" /></a>
+<!-- Reliable typing SVG from demolab -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&height=60&lines=Hi+there%2C+I'm+Arnab+Som+%F0%9F%91%8B;Senior+Full+Stack+Developer;Laravel+%7C+Vue.js+%7C+Flutter+%7C+Node.js;3.5%2B+Years+%7C+20%2B+Live+Deployments;Building+for+AU+%26+IN+Clients+%F0%9F%8C%8F" alt="Typing SVG" />
+</a>
 
 <br/><br/>
 
-<!-- Social badges -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://arnab.wisestaging.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnab-som-012568160/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Captain-Arnab)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnabrks@gmail.com)
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/som_arnab)
+<!-- Social badges — using shields.io only (always reliable) -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://arnab.wisestaging.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnab-som-012568160/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Captain-Arnab)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnabrks@gmail.com)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/som_arnab)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/cap_arnab/)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Captain-Arnab&label=Profile+Views&color=7C3AED&style=for-the-badge)
 
 </div>
 
 ---
+
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 ## 👨‍💻 About Me
 
 ```yaml
 name        : Arnab Som
 location    : Howrah, West Bengal, India
-role        : Full Stack & Mobile App Developer
-experience  : 3.5+ Years
-client_base : Australia & India
-education   : B.Tech CSE — CEMK (DGPA 8.68)
+role        : Senior Full Stack Developer
+experience  : 3.5+ Years | 20+ Live Deployments
+current     : Outposter South Asia (Remote, AU)
+education   : B.Tech CSE — DGPA 8.68 / 10
 availability: Immediate | Open to Remote & Relocation
-languages   : English (Professional) | Bengali (Native) | Hindi (Fluent)
+languages   : English · Bengali · Hindi
 
-currently_building :
-  - AI-powered Talent Platform @ Outposter South Asia
-  - B2B Grocery Order Management System (Freelance)
+currently_building:
+  - AI-powered Talent Platform @ Outposter
+  - B2B Grocery Order Management System
 
-strengths :
+strengths:
   - End-to-end product ownership
-  - REST API design & integration
-  - Cross-platform mobile apps (Flutter & React Native)
+  - REST API design & 3rd-party integrations
+  - Cross-platform mobile (Flutter & React Native)
   - Junior developer mentoring
-  - Remote international collaboration
+  - Remote-first international collaboration
 ```
+
+<br clear="right"/>
 
 ---
 
 ## 🏢 Work Experience
 
 <details>
-<summary><strong>🟣 Head of Engineering — Outposter South Asia Pvt Ltd</strong> &nbsp;|&nbsp; Nov 2024 – Present &nbsp;(Remote, Brisbane AU)</summary>
-
+<summary><b>🟣 Senior Full Stack Developer — Outposter South Asia Pvt Ltd</b> &nbsp;|&nbsp; Nov 2024 – Present &nbsp;|&nbsp; Remote (Brisbane, AU)</summary>
 <br/>
 
-- Built the **Outposter Talent Platform** (Client Portal, Job Portal, Admin Panel) from scratch — full architecture to delivery
+- Built the **Outposter Talent Platform** from scratch — Client Portal, Job Portal, Admin Panel — full architecture to delivery
 - Engineered an **AI-powered JD parsing system** using OpenAI API + OCR for smart candidate matching
 - Designed REST APIs integrating **Kap1 CRM** — candidate search, lead tracking, resume workflows
 - Integrated **Slack Webhooks**, **Turnstile CAPTCHA**, and **Calendly** for automation & security
-- Leading Vue.js frontend development; **mentoring junior developers** and supervising delivery
-- Managing parallel streams: Python data scraping, Laravel backends, Flutter & React Native apps
+- Leading Vue.js frontend development; mentoring junior developers and supervising project delivery
+- Managing parallel streams: Python data scraping, Laravel backends, Flutter & React Native mobile apps
 
 </details>
 
 <details>
-<summary><strong>🔵 PHP Developer — Infedis InfoTech LLP</strong> &nbsp;|&nbsp; Jan 2024 – Oct 2024 &nbsp;(Remote, Kolkata)</summary>
-
+<summary><b>🔵 PHP Developer — Infedis InfoTech LLP</b> &nbsp;|&nbsp; Jan 2024 – Oct 2024 &nbsp;|&nbsp; Remote (Kolkata)</summary>
 <br/>
 
-- Core backend development for **Hidoc** — a healthcare-focused platform
-- Maintained and extended PHP backend systems for the clinical workflow product
-- Contributed to team sprints, met quality benchmarks consistently
+- Core backend developer for **Hidoc** — a healthcare-focused clinical platform
+- Maintained and extended PHP backend systems across the product lifecycle
+- Delivered work consistently to quality standards across team sprints
 
 </details>
 
 <details>
-<summary><strong>🟠 Web Developer — Rupa & Company Ltd</strong> &nbsp;|&nbsp; Dec 2022 – Dec 2023 &nbsp;(Kolkata)</summary>
-
+<summary><b>🟠 Web Developer — Rupa & Company Ltd</b> &nbsp;|&nbsp; Dec 2022 – Dec 2023 &nbsp;|&nbsp; Kolkata</summary>
 <br/>
 
-- Maintained **Magento storefronts** for [rupa.co.in](https://rupa.co.in) and [femmora.com](https://femmora.com)
+- Maintained Magento storefronts for **rupa.co.in** and **femmora.com** (India's top textile brand)
 - Built an internal **Sales Portal** using CodeIgniter
-- Led **WordPress → Magento** migration project
+- Led full **WordPress → Magento** migration
 
 </details>
 
@@ -89,48 +94,52 @@ strengths :
 
 <div align="center">
 
-### Languages
+**Languages**
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frameworks & Libraries
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeIgniter&logoColor=white)
-
-### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Frameworks & Runtime**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+
+**Frontend & Styling**
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-### Databases & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-00000f?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0167ff?style=for-the-badge&logo=digitalOcean&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+**Databases & Cloud**
 
-### APIs, DevOps & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+**APIs, DevOps & Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-### CMS & E-commerce
 ![Magento](https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=WordPress&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 </div>
 
@@ -138,20 +147,20 @@ strengths :
 
 ## 🚀 Featured Projects
 
-> **20+ live deployments** across web and mobile
+> 20+ live deployments across web and mobile platforms
 
-| Project | Tech | Description | Link |
-|--------|------|-------------|------|
-| 🤖 **Outposter Talent Platform** | Vue.js, Laravel, OpenAI, OCR | AI-powered 3-portal talent system — client portal, job portal, admin | [talent.outposter.com.au](https://talent.outposter.com.au) |
-| 🛒 **Urban Roots** | Flutter, Laravel | Grocery store app with user & delivery driver mobile apps | [urbunroots.com](https://urbunroots.com) |
-| 💰 **AntVault** | Laravel, Vue.js | Stock & SIP investment fintech platform | [antvault.in](https://antvault.in) |
-| 🧹 **Zencare** | Flutter, Laravel | Service marketplace + Android app | [zencareservice.com](https://zencareservice.com) |
-| 💆 **Elegance Laser Clinics** | Laravel | Clinic website + blog admin panel | [elegancelaserclinics.com](https://elegancelaserclinics.com) |
-| 👕 **Rupa Corporate** | Magento | E-commerce for India's top textile brand | [rupa.co.in](https://rupa.co.in) |
-| 📈 **Omnifincon** | Laravel, Vue.js | Wealth management platform | [omnifincon.com](https://omnifincon.com) |
-| 🏨 **Gold Horn Hotel** | Laravel | Hotel booking & events website | [goldhornhotel.com](https://goldhornhotel.com) |
-| 🎓 **MiCampus** | Flutter, Laravel | Event management + Android app | — |
-| ⚡ **Ontrack Energy** | Laravel | Corporate website | [ontrackenergy.com](https://ontrackenergy.com) |
+| # | Project | Stack | Description | Live |
+|---|---------|-------|-------------|------|
+| 🤖 | **Outposter Talent Platform** | Vue.js · Laravel · OpenAI · OCR | AI-powered 3-portal talent system — client, job & admin portals | [↗ talent.outposter.com.au](https://talent.outposter.com.au) |
+| 🛒 | **Urban Roots** | Flutter · Laravel | Grocery store with user & delivery driver mobile apps | [↗ urbunroots.com](https://urbunroots.com) |
+| 💰 | **AntVault** | Laravel · Vue.js | Stock & SIP investment fintech platform | [↗ antvault.in](https://antvault.in) |
+| 🧹 | **Zencare** | Flutter · Laravel | Service marketplace + Android app | [↗ zencareservice.com](https://zencareservice.com) |
+| 💆 | **Elegance Laser Clinics** | Laravel | Clinic website + custom blog admin | [↗ elegancelaserclinics.com](https://elegancelaserclinics.com) |
+| 👕 | **Rupa Corporate** | Magento | E-commerce for India's top textile brand | [↗ rupa.co.in](https://rupa.co.in) |
+| 📈 | **Omnifincon** | Laravel · Vue.js | Wealth management platform | [↗ omnifincon.com](https://omnifincon.com) |
+| 🏨 | **Gold Horn Hotel** | Laravel | Hotel booking & events platform | [↗ goldhornhotel.com](https://goldhornhotel.com) |
+| 🎓 | **MiCampus** | Flutter · Laravel | College event management + Android app | — |
+| ⚡ | **Ontrack Energy** | Laravel | Corporate website | [↗ ontrackenergy.com](https://ontrackenergy.com) |
 
 ---
 
@@ -159,14 +168,12 @@ strengths :
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Captain-Arnab&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=false&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Captain-Arnab&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Captain-Arnab&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Captain-Arnab&theme=tokyonight&hide_border=true" />
 
-</div>
+<br/><br/>
 
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Captain-Arnab&theme=tokyonight&hide_border=true)
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Captain-Arnab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -176,23 +183,23 @@ strengths :
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Captain-Arnab&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=Captain-Arnab&theme=tokyonight&no-frame=true&margin-w=8&column=6" />
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-[![Arnab's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Captain-Arnab&bg_color=1a1b27&color=70a5fd&line=6e40c9&point=bf91f3&area=true&hide_border=true)](https://github.com/Captain-Arnab)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Captain-Arnab&bg_color=1a1b27&color=70a5fd&line=7c3aed&point=c4b5fd&area=true&hide_border=true" width="100%" />
 
 </div>
 
 ---
 
-## 💡 A Random Dev Quote
+## 💬 A Dev Quote
 
 <div align="center">
 
@@ -206,21 +213,22 @@ strengths :
 
 <div align="center">
 
-I'm open to **remote full-stack / backend roles**, **freelance engagements**, and **interesting build opportunities**.
+**Open to remote full-stack / backend roles, freelance engagements, and interesting builds.**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-arnab.wisestaging.com-6E40C9?style=for-the-badge)](https://arnab.wisestaging.com/)
-[![Email](https://img.shields.io/badge/📧_Email-arnabrks@gmail.com-D14836?style=for-the-badge)](mailto:arnabrks@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge)](https://www.linkedin.com/in/arnab-som-012568160/)
+<br/>
 
-</div>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-arnab.wisestaging.com-7C3AED?style=for-the-badge&labelColor=1a1b27)](https://arnab.wisestaging.com/)
+&nbsp;
+[![Email](https://img.shields.io/badge/📧_Email-arnabrks@gmail.com-D14836?style=for-the-badge&labelColor=1a1b27)](mailto:arnabrks@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&labelColor=1a1b27)](https://www.linkedin.com/in/arnab-som-012568160/)
+
+<br/><br/>
 
 ---
 
-<div align="center">
+*Made with ❤️ from Howrah, West Bengal, India*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-<!-- Profile view counter -->
-[![](https://visitcount.itsvg.in/api?id=Captain-Arnab&icon=5&color=6)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Captain-Arnab&color=7C3AED&style=flat-square&label=Visitors)
 
 </div>
