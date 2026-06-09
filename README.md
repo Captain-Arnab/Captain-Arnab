@@ -1,13 +1,11 @@
 <div align="center">
 
-<!-- Reliable typing SVG from demolab -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&height=60&lines=Hi+there%2C+I'm+Arnab+Som+%F0%9F%91%8B;Senior+Full+Stack+Developer;Laravel+%7C+Vue.js+%7C+Flutter+%7C+Node.js;3.5%2B+Years+%7C+20%2B+Live+Deployments;Building+for+AU+%26+IN+Clients+%F0%9F%8C%8F" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- Social badges — using shields.io only (always reliable) -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://arnab.wisestaging.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnab-som-012568160/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Captain-Arnab)
@@ -23,9 +21,12 @@
 
 ---
 
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
-
 ## 👨‍💻 About Me
+
+<!-- TABLE layout is the only reliable way to get code block + image side by side on GitHub -->
+<table>
+<tr>
+<td valign="top" width="60%">
 
 ```yaml
 name        : Arnab Som
@@ -33,7 +34,7 @@ location    : Howrah, West Bengal, India
 role        : Senior Full Stack Developer
 experience  : 3.5+ Years | 20+ Live Deployments
 current     : Outposter South Asia (Remote, AU)
-education   : B.Tech CSE
+education   : B.Tech CSE — DGPA 8.68 / 10
 availability: Immediate | Open to Remote & Relocation
 languages   : English · Bengali · Hindi
 
@@ -49,7 +50,14 @@ strengths:
   - Remote-first international collaboration
 ```
 
-<br clear="right"/>
+</td>
+<td valign="top" width="40%" align="center">
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding GIF" width="320" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -171,7 +179,7 @@ strengths:
 <table>
   <tr>
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Captain-Arnab&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&border_radius=10&rank_icon=github" alt="GitHub Stats" />
+      <img src="https://readme-stats.vercel.app/api?username=Captain-Arnab&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&border_radius=10&rank_icon=github" alt="GitHub Stats" />
     </td>
     <td valign="top">
       <img src="https://streak-stats.demolab.com/?user=Captain-Arnab&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
@@ -181,7 +189,7 @@ strengths:
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Captain-Arnab&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10" alt="Top Languages" />
+<img src="https://readme-stats.vercel.app/api/top-langs/?username=Captain-Arnab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10" alt="Top Languages" />
 
 </div>
 
