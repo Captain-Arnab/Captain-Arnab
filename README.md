@@ -23,7 +23,7 @@
 
 ---
 
-
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 ## 👨‍💻 About Me
 
@@ -48,7 +48,7 @@ strengths:
   - Junior developer mentoring
   - Remote-first international collaboration
 ```
-<img align="center" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+
 <br clear="right"/>
 
 ---
