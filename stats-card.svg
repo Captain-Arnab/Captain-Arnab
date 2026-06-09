@@ -1,0 +1,98 @@
+<svg width="800" height="200" viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="800" y2="200" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1a1b27"/>
+      <stop offset="100%" stop-color="#24273a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#4F46E5"/>
+    </linearGradient>
+    <linearGradient id="bar1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <linearGradient id="bar2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0175C2"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+    <linearGradient id="bar3" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FF2D20"/>
+      <stop offset="100%" stop-color="#fb923c"/>
+    </linearGradient>
+    <linearGradient id="bar4" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#339933"/>
+      <stop offset="100%" stop-color="#4ade80"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="200" rx="12" fill="url(#bg)"/>
+  <!-- Top accent bar -->
+  <rect width="800" height="4" rx="2" fill="url(#accent)"/>
+  <!-- Subtle border -->
+  <rect width="800" height="200" rx="12" fill="none" stroke="#7C3AED" stroke-width="0.5" stroke-opacity="0.4"/>
+
+  <!-- Title -->
+  <text x="36" y="42" font-family="'Segoe UI', system-ui, sans-serif" font-size="15" font-weight="700" fill="#a78bfa" letter-spacing="2" text-anchor="start">EXPERIENCE HIGHLIGHTS</text>
+
+  <!-- Divider -->
+  <line x1="36" y1="52" x2="764" y2="52" stroke="#7C3AED" stroke-width="0.5" stroke-opacity="0.3"/>
+
+  <!-- ── Stat 1: Experience ── -->
+  <text x="36" y="88" font-family="'Segoe UI', system-ui, sans-serif" font-size="11" fill="#8892a4" letter-spacing="1">EXPERIENCE</text>
+  <text x="36" y="114" font-family="'Segoe UI', system-ui, sans-serif" font-size="32" font-weight="700" fill="#e2e8f0">3.5<tspan font-size="16" fill="#a78bfa">+ yrs</tspan></text>
+  <rect x="36" y="124" width="140" height="4" rx="2" fill="#1e2035"/>
+  <rect x="36" y="124" width="126" height="4" rx="2" fill="url(#bar1)"/>
+
+  <!-- ── Stat 2: Deployments ── -->
+  <text x="216" y="88" font-family="'Segoe UI', system-ui, sans-serif" font-size="11" fill="#8892a4" letter-spacing="1">LIVE DEPLOYMENTS</text>
+  <text x="216" y="114" font-family="'Segoe UI', system-ui, sans-serif" font-size="32" font-weight="700" fill="#e2e8f0">20<tspan font-size="16" fill="#38bdf8">+</tspan></text>
+  <rect x="216" y="124" width="140" height="4" rx="2" fill="#1e2035"/>
+  <rect x="216" y="124" width="140" height="4" rx="2" fill="url(#bar2)"/>
+
+  <!-- ── Stat 3: Stacks ── -->
+  <text x="396" y="88" font-family="'Segoe UI', system-ui, sans-serif" font-size="11" fill="#8892a4" letter-spacing="1">TECH STACKS</text>
+  <text x="396" y="114" font-family="'Segoe UI', system-ui, sans-serif" font-size="32" font-weight="700" fill="#e2e8f0">5<tspan font-size="16" fill="#fb923c">+ major</tspan></text>
+  <rect x="396" y="124" width="140" height="4" rx="2" fill="#1e2035"/>
+  <rect x="396" y="124" width="112" height="4" rx="2" fill="url(#bar3)"/>
+
+  <!-- ── Stat 4: Clients ── -->
+  <text x="576" y="88" font-family="'Segoe UI', system-ui, sans-serif" font-size="11" fill="#8892a4" letter-spacing="1">COUNTRIES SERVED</text>
+  <text x="576" y="114" font-family="'Segoe UI', system-ui, sans-serif" font-size="32" font-weight="700" fill="#e2e8f0">AU <tspan fill="#a78bfa">&amp;</tspan> IN</text>
+  <rect x="576" y="124" width="188" height="4" rx="2" fill="#1e2035"/>
+  <rect x="576" y="124" width="188" height="4" rx="2" fill="url(#bar4)"/>
+
+  <!-- Divider bottom -->
+  <line x1="36" y1="148" x2="764" y2="148" stroke="#7C3AED" stroke-width="0.5" stroke-opacity="0.3"/>
+
+  <!-- Tags row -->
+  <!-- Tag 1 -->
+  <rect x="36" y="160" width="90" height="24" rx="12" fill="#7C3AED" fill-opacity="0.2" stroke="#7C3AED" stroke-width="0.8"/>
+  <text x="81" y="176" font-family="'Segoe UI', system-ui, sans-serif" font-size="11" fill="#a78bfa" text-anchor="middle">Laravel</text>
+  <!-- Tag 2 -->
+  <rect x="136" y="160" width="72" height="24" rx="12" fill="#35495E" fill-opacity="0.4" stroke="#4FC08D" stroke-width="0.8"/>
+  <text x="172" y="176" font-family="'Segoe UI', system-ui, sans-serif" font-size="11" fill="#4FC08D" text-anchor="middle">Vue.js</text>
+  <!-- Tag 3 -->
+  <rect x="218" y="160" width="76" height="24" rx="12" fill="#0175C2" fill-opacity="0.2" stroke="#0175C2" stroke-width="0.8"/>
+  <text x="256" y="176" font-family="'Segoe UI', system-ui, sans-serif" font-size="11" fill="#38bdf8" text-anchor="middle">Flutter</text>
+  <!-- Tag 4 -->
+  <rect x="304" y="160" width="82" height="24" rx="12" fill="#339933" fill-opacity="0.2" stroke="#339933" stroke-width="0.8"/>
+  <text x="345" y="176" font-family="'Segoe UI', system-ui, sans-serif" font-size="11" fill="#4ade80" text-anchor="middle">Node.js</text>
+  <!-- Tag 5 -->
+  <rect x="396" y="160" width="102" height="24" rx="12" fill="#FF2D20" fill-opacity="0.15" stroke="#FF2D20" stroke-width="0.8"/>
+  <text x="447" y="176" font-family="'Segoe UI', system-ui, sans-serif" font-size="11" fill="#fb923c" text-anchor="middle">React Native</text>
+  <!-- Tag 6 -->
+  <rect x="508" y="160" width="82" height="24" rx="12" fill="#412991" fill-opacity="0.3" stroke="#412991" stroke-width="0.8"/>
+  <text x="549" y="176" font-family="'Segoe UI', system-ui, sans-serif" font-size="11" fill="#c4b5fd" text-anchor="middle">OpenAI API</text>
+  <!-- Tag 7 -->
+  <rect x="600" y="160" width="78" height="24" rx="12" fill="#EE672F" fill-opacity="0.15" stroke="#EE672F" stroke-width="0.8"/>
+  <text x="639" y="176" font-family="'Segoe UI', system-ui, sans-serif" font-size="11" fill="#fb923c" text-anchor="middle">Magento</text>
+  <!-- Tag 8 -->
+  <rect x="688" y="160" width="76" height="24" rx="12" fill="#2496ED" fill-opacity="0.15" stroke="#2496ED" stroke-width="0.8"/>
+  <text x="726" y="176" font-family="'Segoe UI', system-ui, sans-serif" font-size="11" fill="#38bdf8" text-anchor="middle">Docker</text>
+</svg>
