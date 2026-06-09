@@ -28,20 +28,20 @@
 <td valign="top" width="60%">
 
 ```yaml
-name        : Arnab Som
-location    : Howrah, West Bengal, India
-role        : Senior Full Stack Developer
-experience  : 3.5+ Years | 20+ Live Deployments
-current     : Outposter South Asia (Remote, AU)
-education   : B.Tech CSE
-availability: Immediate | Open to Remote & Relocation
-languages   : English · Bengali · Hindi
+Name        : Arnab Som
+Location    : Howrah, West Bengal, India
+Role        : Senior Full Stack Developer
+Experience  : 3.5+ Years | 20+ Live Deployments
+Current     : Outposter South Asia (Remote, AU)
+Education   : B.Tech CSE
+Availability: Immediate | Open to Remote & Relocation
+Languages   : English · Bengali · Hindi
 
-currently_building:
+Currently_building:
   - AI-powered Talent Platform @ Outposter
   - B2B Grocery Order Management System
 
-strengths:
+Strengths:
   - End-to-end product ownership
   - REST API design & 3rd-party integrations
   - Cross-platform mobile (Flutter & React Native)
